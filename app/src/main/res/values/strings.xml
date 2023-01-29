@@ -1,6 +1,23 @@
 <resources>
     <string name="app_name">Spring_crud</string>
 
-    <!-- index.xml -->
-    <string name="index_title_text">ログイン画面</string>
+    <!-- ログイン画面 -->
+    <string name="login_title">ログイン画面</string>
+    <string name="login_error_message">社員IDとパスワードを入力してください。</string>
+    <string name="login_label1">社員ID</string>
+    <string name="login_label2">パスワード</string>
+    <string name="login_button_text">ログイン</string>
+
+    <!-- 一覧画面 -->
+    <string name="list_title_text">社員一覧画面</string>
+
+    <!-- 登録画面 -->
+    <string name="register_input_title_text">社員登録入力画面</string>
+    <string name="register_check_title_text">社員登録確認画面</string>
+    <string name="register_comp_title_text">社員登録完了画面</string>
+
+    <!-- 更新画面 -->
+
+    <!-- 削除画面 -->
+
 </resources>

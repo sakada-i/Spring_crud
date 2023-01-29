@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginTop="18dp"
-        android:text="社員登録入力画面"
+        android:text="@string/register_input_title_text"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
