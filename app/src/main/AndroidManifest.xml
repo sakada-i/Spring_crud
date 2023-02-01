@@ -14,7 +14,7 @@
         <!-- android:label...ヘッダーに表示される文字 -->
         <!-- android:theme...見た目。アプリ全体とアクティビティのテーマをそれぞれ設定している。 -->
         <activity
-            android:name=".MainActivity"
+            android:name=".Index"
             android:label="社員管理システム"
             android:exported="true">
             <intent-filter>
@@ -25,7 +25,9 @@
         </activity>
         <activity
             android:name=".List">
-
+        </activity>
+        <activity
+            android:name=".optionMenu">
         </activity>
     </application>
 

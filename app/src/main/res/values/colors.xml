@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="titleTextColor">#12526d</color>
     <color name="colorPrimary">#FFFFFFFF</color>
+    <!-- エラーメッセージ指定色 -->
+    <color name="err_message_color">#F15B5B</color>
 
     <!-- 社員管理システム用ColorTheme -->
     <!-- header仕様color -->
